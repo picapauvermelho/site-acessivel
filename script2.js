@@ -16,4 +16,5 @@ const aumentaFonteBotao = document.getElementById('aumentar-fonte');
 
     })
     })
+
     
